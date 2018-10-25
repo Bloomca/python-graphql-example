@@ -1,3 +1,5 @@
+# fun fact – this file can't be named `graphql.py`
+# https://github.com/graphql-python/graphene/issues/441
 import graphene
 
 class Post(graphene.ObjectType):
